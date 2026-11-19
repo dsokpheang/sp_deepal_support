@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-19T23:46:00Z",
+  "generated": "2026-11-19T23:50:55Z",
   "apps": [
     {
       "package": "com.sp.deepalkit",
@@ -493,7 +493,7 @@
       "versionCode": 39,
       "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913",
       "file": "com.music.bitchord.v39.apk",
-      "url": "https://drive.usercontent.google.com/download?id=1gpvAgj3Bz_MAa81C8ab2GykQ3TjtGteW&export=download&confirm=t",
+      "url": "https://drive.usercontent.google.com/download?id=14H0ZcFspAZ4JHxTEre7lYYlhMJdaAKli&export=download&confirm=t",
       "size": 90150424,
       "sha256": "76711b820f63da5da87bacd0cd1cf1e40ec1f2be652951211c6028ab65c1bce5"
     }
