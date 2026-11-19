@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-19T21:01:21Z",
+  "generated": "2026-11-19T23:46:00Z",
   "apps": [
     {
       "package": "com.sp.deepalkit",
@@ -8,8 +8,8 @@
       "versionName": "1.0.0",
       "versionCode": 1,
       "file": "sp.deepal.kit.v1.0.0.1.apk",
-      "size": 3526681,
-      "sha256": "b7ca2473e60c00b75228522acdcf7fc2d197fdb5c373c3d7172e0c4a74c03423"
+      "size": 3461146,
+      "sha256": "bff146ff8b64daa677da188f8a72bf101eeb54407e69806eab3f7dc71d8a55cf"
     },
     {
       "package": "com.sp.files",
@@ -18,7 +18,7 @@
       "versionCode": 1,
       "file": "sp.files.v1.0.0.1.apk",
       "size": 271917,
-      "sha256": "48cf4c068f460d340f0639553e27e1ebe000bf0c9c8da3235f4cface442095db"
+      "sha256": "f158a9a0941893257dc9992d5e0fe62357de429b8131113e08823fb044053453"
     },
     {
       "package": "com.sp.home",
@@ -26,8 +26,8 @@
       "versionName": "1.0.0",
       "versionCode": 1,
       "file": "sp.home.v1.0.0.1.apk",
-      "size": 210479,
-      "sha256": "31932251187e5dbe434256074ba7ed5f7b888a26fe1a9c604edccc616a9384fd"
+      "size": 214575,
+      "sha256": "072a59fa9bae4d0161cc8dd25b800e901cf0d0809d0dccc8aadcbc0864129beb"
     },
     {
       "package": "com.sp.map",
@@ -35,8 +35,8 @@
       "versionName": "1.0.0",
       "versionCode": 1,
       "file": "sp.map.v1.0.0.1.apk",
-      "size": 2421673,
-      "sha256": "eda9c60c45150ce5fb23b6e466371e616d52a491553eb8514af0c53ac09b3cd1"
+      "size": 2561443,
+      "sha256": "9244034594532e86087f3bc20656c588d61540fd6d4fb88e044462bb1180060b"
     },
     {
       "package": "com.sp.media",
@@ -45,7 +45,7 @@
       "versionCode": 1,
       "file": "sp.media.v1.0.0.1.apk",
       "size": 973056,
-      "sha256": "2bda58c2b10d9095a74773a44c5e34fab031561196c80a45d2ac21385c7142f8"
+      "sha256": "e02e0813e1b0d3918267cfa73aceb166c97aa48de0c5b77f5b7248419ad44cb6"
     },
     {
       "package": "com.sp.splitscreen",
@@ -54,7 +54,7 @@
       "versionCode": 1,
       "file": "sp.split.screen.v1.0.0.1.apk",
       "size": 103919,
-      "sha256": "ede1654e530234d41ac901e6bf221fc3541a9bfd117324ae5d30b62545b3191c"
+      "sha256": "e8dc33b686694a1bd7480fe8c5c5a76c12a8a3319c701db96726ef6d52cc58c5"
     },
     {
       "package": "com.sp.store",
@@ -63,15 +63,15 @@
       "versionCode": 1,
       "file": "sp.store.v1.0.0.1.apk",
       "size": 218673,
-      "sha256": "452ebad29e379ec724af72bce26dd715c889d68ea2ba115eb4e252bd8391bcd7"
+      "sha256": "572ef3034d632e6d2457cb9778e724b3b64b41b653f5fda0321ad4dc78fc57d9"
     }
   ],
   "broker": {
     "version": "1.0.0",
     "build": 1,
     "file": "sp-broker.jar",
-    "size": 258935,
-    "sha256": "704fad708b215406754fb8bad90622ca97477adfc4375612d8495b377a3d095d"
+    "size": 263779,
+    "sha256": "cdef859efc2cc393085ea9725b485c72f3638a14e3d4bec4f63c6aa5bcc2318d"
   },
   "tunnel": {
     "file": "cloudflared-arm64.gz",
@@ -100,14 +100,14 @@
     },
     "male": {
       "file": "voice/prompts_male.zip",
-      "sha256": "5eb6305a92078ddd310a587ec68933359dcbe721e91be277ed49d6058a89dd85",
-      "size": 9350786,
+      "sha256": "8b42e58fdfccdf7071ed0580181f0d530e7da610eb63b41b9119a661687633ab",
+      "size": 9349963,
       "count": 504
     },
     "female": {
       "file": "voice/prompts_female.zip",
-      "sha256": "4f9b5e669dd845d6cd820963253eefff59f7ce6c70c62bc03efebcd592589187",
-      "size": 10225007,
+      "sha256": "577a31f361e7b001973322f4381f087448b588a51df153907f74519069b2d8d9",
+      "size": 10224145,
       "count": 505
     }
   },
@@ -481,21 +481,21 @@
       "versionName": "1.0.0",
       "versionCode": 1,
       "file": "sp.carplay.v1.0.0.1.apk",
-      "size": 1932154,
-      "sha256": "f9af3f0e2111188214fc65f49d8811ac2b99fff8c7b8b00a2d38ecd54cb82dc9"
+      "size": 1932190,
+      "sha256": "b45b8ba2242d71f46af96b7c086a882d3f02e4c48bcd8c59a42fa9d738618375"
     }
   ],
   "external": [
     {
       "package": "com.music.bitchord",
       "label": "BitChord",
-      "versionName": "1.9.1.SP.5",
-      "versionCode": 44,
+      "versionName": "1.9.1.SP",
+      "versionCode": 39,
       "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913",
-      "file": "com.music.bitchord.v44.apk",
+      "file": "com.music.bitchord.v39.apk",
       "url": "https://drive.usercontent.google.com/download?id=1gpvAgj3Bz_MAa81C8ab2GykQ3TjtGteW&export=download&confirm=t",
       "size": 90150424,
-      "sha256": "2e5930e2bb0f0aebc56575cd9b2002eefccf6aa28d28e00e3e561e926166447b"
+      "sha256": "76711b820f63da5da87bacd0cd1cf1e40ec1f2be652951211c6028ab65c1bce5"
     }
   ]
 }
