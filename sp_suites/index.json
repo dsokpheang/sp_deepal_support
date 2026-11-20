@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-20T00:00:45Z",
+  "generated": "2026-11-20T03:55:44Z",
   "apps": [
     {
       "package": "com.sp.deepalkit",
@@ -70,8 +70,8 @@
     "version": "1.0.0",
     "build": 1,
     "file": "sp-broker.jar",
-    "size": 263779,
-    "sha256": "fa4cb87415ce66f570d5012ec724b8d41ed24385fa638837f61a4249f1d4c177"
+    "size": 263652,
+    "sha256": "e3af7636761c004c34f6e4f572a7048c898290df643373551039144a616ec25c"
   },
   "tunnel": {
     "file": "cloudflared-arm64.gz",
@@ -110,6 +110,19 @@
       "size": 10224145,
       "count": 505
     }
+  },
+  "welcomecar": {
+    "cars": [
+      {
+        "id": "c857",
+        "name": "Deepal S05",
+        "file": "welcomecar/c857.zip",
+        "sha256": "b3f7b6def6ec11352e7f95a7f46ec8602b47311909194d74a18d355d52e4eeed",
+        "size": 6989374,
+        "preview": "welcomecar/c857.png",
+        "preview_sha256": "535b597e289e939090ebfbf4a46d17508598b1d551e3b5f912d170c13e6b8d6b"
+      }
+    ]
   },
   "locksound": {
     "files": {
