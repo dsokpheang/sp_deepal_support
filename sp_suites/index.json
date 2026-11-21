@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-21T15:57:01Z",
+  "generated": "2026-11-21T15:57:36Z",
   "apps": [
     {
       "package": "com.sp.deepalkit",
@@ -509,6 +509,17 @@
       "url": "https://drive.usercontent.google.com/download?id=14H0ZcFspAZ4JHxTEre7lYYlhMJdaAKli&export=download&confirm=t",
       "size": 90150424,
       "sha256": "76711b820f63da5da87bacd0cd1cf1e40ec1f2be652951211c6028ab65c1bce5"
+    },
+    {
+      "package": "app.netmirror.newtv",
+      "label": "NetMirrorTV",
+      "versionName": "1.0",
+      "versionCode": 1,
+      "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
+      "file": "app.netmirror.newtv.v1.apk",
+      "url": "https://drive.usercontent.google.com/download?id=1GaUDwSuW_6cIWaywD5sfo-3c-6LzB3Au&export=download&confirm=t",
+      "size": 60837005,
+      "sha256": "e99229ea8d49b217ef59b6e20c31cbe3de0d0e297c679a98445044ba20ad0dba"
     }
   ]
 }
