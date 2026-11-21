@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "generated": "2026-11-21T19:23:35Z",
+  "generated": "2026-11-21T19:47:00Z",
   "apps": [
     {
       "package": "com.sp.deepalkit",
       "label": "SP Deepal Kit",
-      "versionName": "1.4.9",
-      "versionCode": 612,
-      "file": "sp.deepal.kit.v1.4.9.612.apk",
+      "versionName": "1.4.10",
+      "versionCode": 613,
+      "file": "sp.deepal.kit.v1.4.10.613.apk",
       "size": 4407954,
-      "sha256": "ee851ed0e531bce6337111ac20a7a2ff365e33b5ef49160df2738a07a7ea5dab"
+      "sha256": "0be798415ce9e9bd1d64449e0f827bac35ba4551164e24c66d528230f0717f02"
     },
     {
       "package": "com.sp.files",
