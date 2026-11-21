@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-20T06:22:09Z",
+  "generated": "2026-11-21T15:52:28Z",
   "apps": [
     {
       "package": "com.sp.deepalkit",
@@ -23,20 +23,20 @@
     {
       "package": "com.sp.home",
       "label": "SP Home",
-      "versionName": "1.0.0",
-      "versionCode": 1,
-      "file": "sp.home.v1.0.0.1.apk",
+      "versionName": "1.0.1",
+      "versionCode": 2,
+      "file": "sp.home.v1.0.1.2.apk",
       "size": 214575,
-      "sha256": "09a3bab500a88ae82326c0ae661d91baa74b8ec0f2c1b561497219fdc66c6198"
+      "sha256": "771f8fcf4794a0c57ba11a5bde933398e5b4828ae1e532c8e297e72fefea2760"
     },
     {
       "package": "com.sp.map",
       "label": "SP Map",
-      "versionName": "1.0.0",
-      "versionCode": 1,
-      "file": "sp.map.v1.0.0.1.apk",
+      "versionName": "1.0.1",
+      "versionCode": 2,
+      "file": "sp.map.v1.0.1.2.apk",
       "size": 2561443,
-      "sha256": "7574cef31d0e33a50d7d30f7c0862a53832fc8ff07c27cdc2b1d475ebab5b5f2"
+      "sha256": "a05e4efeb9aac014a0fc2bdbd7378eae311ff5a1d56e6a287fe9b95b37fb60d2"
     },
     {
       "package": "com.sp.media",
@@ -67,11 +67,11 @@
     }
   ],
   "broker": {
-    "version": "1.0.0",
-    "build": 1,
+    "version": "1.0.1",
+    "build": 2,
     "file": "sp-broker.jar",
-    "size": 263652,
-    "sha256": "e3af7636761c004c34f6e4f572a7048c898290df643373551039144a616ec25c"
+    "size": 264034,
+    "sha256": "16264600e8beb2399f1d0a859ace54271faed06c6bcc7d9c929010fa1da1f087"
   },
   "tunnel": {
     "file": "cloudflared-arm64.gz",
@@ -491,11 +491,11 @@
     {
       "package": "com.sp.carplay",
       "label": "SP CarPlay",
-      "versionName": "1.0.0",
-      "versionCode": 1,
-      "file": "sp.carplay.v1.0.0.1.apk",
-      "size": 1932190,
-      "sha256": "b45b8ba2242d71f46af96b7c086a882d3f02e4c48bcd8c59a42fa9d738618375"
+      "versionName": "1.0.1",
+      "versionCode": 2,
+      "file": "sp.carplay.v1.0.1.2.apk",
+      "size": 1932194,
+      "sha256": "fa00fc1933b10afc37a0dc6468f0175ae1d4fd75fc48a0444e0c4f7f4c0b7737"
     }
   ],
   "external": [
