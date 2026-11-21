@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "generated": "2026-11-21T18:18:19Z",
+  "generated": "2026-11-21T18:40:43Z",
   "apps": [
     {
       "package": "com.sp.deepalkit",
       "label": "SP Deepal Kit",
-      "versionName": "1.4.6",
-      "versionCode": 609,
-      "file": "sp.deepal.kit.v1.4.6.609.apk",
+      "versionName": "1.4.7",
+      "versionCode": 610,
+      "file": "sp.deepal.kit.v1.4.7.610.apk",
       "size": 4407954,
-      "sha256": "ad9781df19577379c35feb0417badc13fcebc2d07caa3a0f2d40aed9f6db6bc6"
+      "sha256": "7dc10acf6eb6de03990343fd850016952272b395bdc3b9723dac79840d8c37ea"
     },
     {
       "package": "com.sp.files",
@@ -67,11 +67,11 @@
     }
   ],
   "broker": {
-    "version": "1.4.7",
-    "build": 315,
+    "version": "1.4.8",
+    "build": 316,
     "file": "sp-broker.jar",
-    "size": 272090,
-    "sha256": "dae518ba0e92f6ba0959368523c7507af4eafe0a062f0857ae0dc0bbe35c900b"
+    "size": 272261,
+    "sha256": "6183f8124d8c3e3d610568271a502b8a41ac1c1ead69ef69a370e7c25ddcb8f9"
   },
   "tunnel": {
     "file": "cloudflared-arm64.gz",
