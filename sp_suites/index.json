@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-21T15:52:28Z",
+  "generated": "2026-11-21T15:55:35Z",
   "apps": [
     {
       "package": "com.sp.deepalkit",
@@ -456,35 +456,35 @@
     {
       "package": "app.morphe.android.apps.maps",
       "label": "Morphe Maps",
-      "versionName": "26.46.00.1016872485.SP.23",
-      "versionCode": 1068880529,
+      "versionName": "26.46.00.1016872485.SP.1",
+      "versionCode": 1068880507,
       "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913",
-      "file": "app.morphe.android.apps.maps.v1068880529.apk",
-      "url": "https://drive.usercontent.google.com/download?id=1lKMjlroUohQcntfCy9x5JcQqiSXhuFW1&export=download&confirm=t",
-      "size": 183767206,
-      "sha256": "090af5a7e9b3a009ace33204e8130e4756dd1166b65ae2fb290ac9c1bbbcb9eb"
+      "file": "app.morphe.android.apps.maps.v1068880507.apk",
+      "url": "https://drive.usercontent.google.com/download?id=1EcQ-d2r4fQ0teQm3Pbq_C7A2nANfwDxF&export=download&confirm=t",
+      "size": 155852966,
+      "sha256": "1f6203970d484ab1321f9c23ded69ccb776f31823b8c4e17d0062efb9e303df8"
     },
     {
       "package": "app.morphe.android.apps.youtube.music",
       "label": "Morphe YT Music",
-      "versionName": "9.30.53.SP.9",
-      "versionCode": 93053249,
+      "versionName": "9.30.53.SP",
+      "versionCode": 93053240,
       "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913",
-      "file": "app.morphe.android.apps.youtube.music.v93053249.apk",
-      "url": "https://drive.usercontent.google.com/download?id=1yHs92umQ4Lchjm4VLyDWcSUnlIKqnoKP&export=download&confirm=t",
-      "size": 81366514,
-      "sha256": "723252abe9b5446ecc544c2aa3356bb8f0c41e4b562561459a9909eca76cf193"
+      "file": "app.morphe.android.apps.youtube.music.v93053240.apk",
+      "url": "https://drive.usercontent.google.com/download?id=10kbUtJX5H7jkhYkWyjv5uMIdNJ4meZQJ&export=download&confirm=t",
+      "size": 77333910,
+      "sha256": "d990144c1a1fc01885e4f6c150332df204b0249aab04191482a89807bee7b42a"
     },
     {
       "package": "app.morphe.android.youtube",
       "label": "Morphe YouTube",
-      "versionName": "21.23.492.SP.9",
-      "versionCode": 1561177010,
+      "versionName": "21.23.492.SP",
+      "versionCode": 1561177001,
       "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913",
-      "file": "app.morphe.android.youtube.v1561177010.apk",
-      "url": "https://drive.usercontent.google.com/download?id=1H-NqyMvQoHp1iWMkdaUgQ5mkzTeOQ9Yu&export=download&confirm=t",
-      "size": 114839520,
-      "sha256": "60d6237f843c6a3a99e1b36fe07c3ae22745300fcd9cab718d1ea49b73202cad"
+      "file": "app.morphe.android.youtube.v1561177001.apk",
+      "url": "https://drive.usercontent.google.com/download?id=1MOMaEIbsR-xAH_Kmferh_5De4omC0s4w&export=download&confirm=t",
+      "size": 108468509,
+      "sha256": "0d916adba93837303b1f77cada48cc904d94f7bc1fd438c3a8cb22bc4f53078a"
     }
   ],
   "optional": [
