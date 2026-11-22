@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "generated": "2026-11-21T20:31:58Z",
+  "generated": "2026-11-22T08:08:41Z",
   "apps": [
     {
       "package": "com.sp.deepalkit",
       "label": "SP Deepal Kit",
-      "versionName": "1.4.10",
-      "versionCode": 613,
-      "file": "sp.deepal.kit.v1.4.10.613.apk",
+      "versionName": "1.4.11",
+      "versionCode": 614,
+      "file": "sp.deepal.kit.v1.4.11.614.apk",
       "size": 4407954,
-      "sha256": "0be798415ce9e9bd1d64449e0f827bac35ba4551164e24c66d528230f0717f02"
+      "sha256": "ed93d21f83fc49e6823771b1b4998b4b32de7565af200c0c354e9402dc8400a5"
     },
     {
       "package": "com.sp.files",
@@ -1052,13 +1052,13 @@
     {
       "package": "app.morphe.android.apps.maps",
       "label": "Morphe Maps",
-      "versionName": "26.46.00.1016872485.SP.23",
-      "versionCode": 1068880529,
+      "versionName": "26.46.00.1016872485.SP.28",
+      "versionCode": 1068880534,
       "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913",
-      "file": "app.morphe.android.apps.maps.v1068880529.apk",
-      "url": "https://drive.usercontent.google.com/download?id=1Qcd56UATd4ia6CA9CCUSMTHpo7FWXABX&export=download&confirm=t",
-      "size": 183771302,
-      "sha256": "8fb67ecbc95f49fadeb23fba7bdbe1314c1393726e4189b81e92799e20092fd9"
+      "file": "app.morphe.android.apps.maps.v1068880534.apk",
+      "url": "https://drive.usercontent.google.com/download?id=1atRJ7AIz8tyTIg_SRvRDuRL0_kCOv0O1&export=download&confirm=t",
+      "size": 155857062,
+      "sha256": "2195837bdda75d651dd23ccc8e4aa7665a231184d76f850c62f7323f4e81c241"
     },
     {
       "package": "app.morphe.android.apps.youtube.music",
